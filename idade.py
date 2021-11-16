@@ -1,4 +1,3 @@
-%time 
 idade1 = int(16)
 idade2 = int(14)
 idade3 = int(12)
